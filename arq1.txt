@@ -1,5 +1,7 @@
-Esse È o primeiro arquivo
+Esse √© o primeiro arquivo
 
-Esse arquivo Est· sendo alterado agora( 2 commit).
+Esse arquivo Est√° sendo alterado agora( 2 commit).
 
 Este arquivo deve subir
+
+Agora o arquivo vai descer
